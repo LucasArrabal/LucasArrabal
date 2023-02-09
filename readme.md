@@ -13,7 +13,7 @@ SqlServer;
 
 <p>
 
-Estudando/trabalhando na **nome do lugar**<br/>
+trabalhando na **Prodam**<br/>
 
 Eu sou desenvolvedor **.net**.
 
