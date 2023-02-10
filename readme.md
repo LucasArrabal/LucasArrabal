@@ -6,7 +6,7 @@ Tenho o conhecimento com as tecnologias: **JavaScript;
 c#(.net , .net core, .net 6 , MVC, EntityFramework,blazor),;
 Html e CSS;
 Java basico;
-SqlServer;
+SqlServer;**
 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasArrabal&color=f8efd4&style=for-the-badge&logo=GitHub">
