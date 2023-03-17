@@ -5,7 +5,7 @@ Meu nome é **Lucas Arrabal** , tenho 20 anos. No momento estou cursando **Ciên
 Tenho o conhecimento com as tecnologias: **JavaScript;
 c#(.net , .net core, .net 6 , MVC, EntityFramework,blazor),;
 Html e CSS;
-Java basico;
+Java;
 SqlServer;**
 
 
