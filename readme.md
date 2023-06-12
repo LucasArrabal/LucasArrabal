@@ -1,8 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasArrabal&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+My name is **Lucas Arrabal** , I'm 20 years old. In the moment i'm studying **Computer Science** at USCS , i'm in **6° semestre** at College . And i'm  interning at Prodam , there i help in requirements gathering, i support the requirements analysis, i help in  technical assistance on custemer demands , i apply tests in softwares , and i develop systems.
 
-Meu nome é **Lucas Arrabal** , tenho 20 anos. No momento estou cursando **Ciência da Computação** na USCS , estou no **6° semestre** da faculdade . E estou estagiando na Prodam , auxilio no levantamento de requisitos , dou apoio na analise dos requisitos, ajudo no atendimento técnico sobre demandas de clientes , aplico testes em programas , e ajudo no desenvolvimento de sistemas.
-
-Tenho o conhecimento com as tecnologias: **JavaScript; Vue.Js;
+Technology: **JavaScript; Vue.Js;
 c#(.net , .net core, .net 6 , MVC, EntityFramework,blazor);
 Html e CSS;
 Java;
@@ -13,7 +12,7 @@ SqlServer;**
 
 <p>
 
-trabalhando na **Prodam**<br/>
+I work at **Prodam**<br/>
 
 
 
