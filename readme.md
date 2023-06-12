@@ -3,7 +3,8 @@
 <br>My name is **Lucas Arrabal** , I'm 20 years old. In the moment i'm studying **Computer Science** at USCS , i'm in **6° semester** at College . And i'm  interning at Prodam , there i help in requirements gathering, i support the requirements analysis, i help in  technical assistance on custemer demands , i apply tests in softwares , and i develop systems.<br/>
 
 
-<br>Technology: **JavaScript; Vue.Js;
+<br>I have experience  with technologies:
+**JavaScript; Vue.Js;
 c#(.net , .net core, .net 6 , MVC, EntityFramework,blazor);
 Html e CSS;
 Java;
