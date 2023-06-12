@@ -15,7 +15,6 @@ SqlServer;**
 
 trabalhando na **Prodam**<br/>
 
-Eu sou desenvolvedor **.net**.
 
 
 </p>
