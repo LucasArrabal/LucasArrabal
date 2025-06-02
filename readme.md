@@ -4,7 +4,7 @@
 
 
 <br>I have experience  with technologies:
-**JavaScript; Vue.Js; Angular; React Native;
+**Java, SpringBoot, JavaScript; Vue.Js; Angular; React Native;
 c#(.net , .net core, .net 6 , MVC, EntityFramework,blazor);
 Html e CSS;
 Java;
